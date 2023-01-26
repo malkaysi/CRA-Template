@@ -25,6 +25,7 @@
             {
                 "patterns": "['@/features/*/*']"
             }
-        ]
+        ],
+        "react/react-in-jsx-scope": "off"
     }
 }
